@@ -1,47 +1,23 @@
-
 📧 Email Spam Classification System
-🔹 Project Overview
 
-The Email Spam Classification System is a machine learning–based Natural Language Processing (NLP) project designed to automatically classify emails as Spam or Not Spam (Ham).
+🛠️ Technologies Used:
 
-This project demonstrates the complete ML workflow including:
+Python, Scikit-learn, Pandas & NumPy ,Natural Language Processing (NLP) ,TF-IDF Vectorizer, Logistic Regression, Joblib, Streamlit
 
-Text preprocessing
+The Email Spam Classification System is a machine learning–based Natural Language Processing (NLP) project that automatically classifies email messages as Spam or Not Spam (Ham).
 
-Feature extraction using TF‑IDF
+This project demonstrates a complete end-to-end machine learning workflow, including:
 
-Model training with Random Forest Classifier
+Text preprocessing and cleaning
 
-Model saving using Joblib
+Feature extraction using TF-IDF vectorization
 
-Deployment through a Streamlit web application for real‑time prediction
+Model training using Logistic Regression
 
-🚀 Features
+Model saving with Joblib
 
-Binary classification of email messages (Spam vs. Ham)
+Deployment through a Streamlit web application for real-time prediction
+<img width="1602" height="877" alt="prediction non-spam" src="https://github.com/user-attachments/assets/578e97c2-a60e-4c5f-8e7e-65244eae7f24" />
 
-Clean text preprocessing pipeline
+<img width="1415" height="851" alt="prediction spam" src="https://github.com/user-attachments/assets/4b0e369b-1412-44e2-b52d-3bf890d2ead7" />
 
-TF‑IDF vectorization for numerical feature conversion
-
-High‑accuracy Random Forest model
-
-Real‑time prediction via user‑friendly Streamlit UI
-
-🛠️ Technologies Used
-
-Python
-
-Scikit‑learn
-
-Pandas & NumPy
-
-Natural Language Processing (NLP)
-
-TF‑IDF Vectorizer
-
-Random Forest Classifier
-
-Joblib (for model saving/loading)
-
-Streamlit (for deployment)
